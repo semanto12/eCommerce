@@ -1,4 +1,6 @@
-                         : : : : : LOGIN DETAILS : : : : : 
+                        
+# An Ecommerce Website Build with PHP  
+         : : : : : LOGIN DETAILS : : : : : 
 
 ADMIN PANEL LOGIN:
 
