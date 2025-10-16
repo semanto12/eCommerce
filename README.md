@@ -12,7 +12,7 @@ Password: password
 
 USER LOGIN:
 
-Username: harry@den.com
+Username: user@user.com
 Password: code0
 
 DON'T FORGET TO CREATE A DATABASE NAMING "ecomm" AND IMPORT THE SQL FILE TO RUN.
@@ -22,4 +22,4 @@ WITHOUT THE DATABASE THE PROJECT WON'T RUN.
 
 
 
-#THANK YOU FOR DOWNLOADING
+
